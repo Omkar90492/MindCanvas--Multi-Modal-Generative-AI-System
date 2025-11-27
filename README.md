@@ -1,9 +1,11 @@
-<h1>MindCanvas: AI-Powered Art Therapy Assistant</h1>
+# 🎨 MindCanvas: Multi-Modal Generative Wellness System
 
-<p>An innovative computational system that bridges artificial intelligence and mental healthcare through artistic expression. MindCanvas leverages advanced computer vision, natural language processing, and generative AI to analyze artwork for emotional content, provide therapeutic insights, and generate personalized art exercises for mental wellbeing.</p>
+**An innovative computational system that bridges artificial intelligence and mental healthcare through artistic expression.** MindCanvas leverages advanced **Computer Vision**, natural language processing, and **Generative AI** to analyze artwork for emotional content, provide therapeutic insights, and generate personalized art exercises for mental wellbeing.
 
-<h2>Overview</h2>
-<p>MindCanvas represents a paradigm shift in digital mental health interventions by combining artistic expression with artificial intelligence. The system addresses the growing need for accessible, personalized mental health support through non-invasive, creative modalities. By analyzing visual and textual components of user-created artwork, MindCanvas provides clinically-informed insights into emotional states, recommends evidence-based art therapy exercises, and tracks therapeutic progress over time. This approach democratizes access to art therapy principles while maintaining the nuance and depth of traditional therapeutic practices.</p>
+## Overview
+MindCanvas represents a paradigm shift in digital mental health interventions. The system addresses the growing need for accessible, personalized mental health support through non-invasive, creative modalities. By analyzing visual and textual components of user-created artwork, MindCanvas provides clinically-informed insights into emotional states, recommends evidence-based art therapy exercises, and tracks therapeutic progress over time.
+
+---
 
 <img width="521" height="532" alt="image" src="https://github.com/user-attachments/assets/82e5f11f-2f72-4afa-aa76-fb24a4ba7c54" />
 
